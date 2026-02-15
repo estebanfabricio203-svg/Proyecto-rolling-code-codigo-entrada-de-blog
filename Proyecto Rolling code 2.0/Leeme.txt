@@ -1,0 +1,6 @@
+Use la base de referencia de adventure tours. Revisenlo y mejorenlo un poco. lo hice basico para se entienda bien el codigo.
+comienza desde el main. Me guie de la imagen que pasaron de entradad del blog.
+Use los br para separar un poco los espacios.
+puse una seccion de comentarios. me costo ver la imagen.
+y una seccion donde se leerian. Nose como se agregarian si alguien comenta algo.
+Nose que irian en unos botones de la imagen de ejemplo llevarian a las secciones de la pagina de lo que mas o menos se trata de los temas de las secciones importantes. o no se si colocaremos que dirijan a informacion. estan vacios de momento
